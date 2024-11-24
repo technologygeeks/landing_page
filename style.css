@@ -97,7 +97,8 @@ nav{
     padding:0.75rem;
     font-size: 1rem;
     border-radius: 1rem;
-    
+    outline:0px;
+    border:0px;
 }
 .content button:hover{
     color:var(--mt);
@@ -143,5 +144,7 @@ nav{
     .content button{
         width:200px;
         padding:1rem;
+        outline:0px;
+        border:0px;
     }
 }
